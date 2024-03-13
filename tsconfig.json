@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "checkJs": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "types": [
+            "node",
+            "mocha"
+        ],
+        "lib" : [
+            "es6" 
+        ],
+        "target": "ES2016",
+        "module": "commonJS",
+        "esModuleInterop": true,
+        "strict": true
+    }
+}
